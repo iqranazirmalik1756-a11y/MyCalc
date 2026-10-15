@@ -1,0 +1,6 @@
+{
+  "name": "Precision Scientific Calculator",
+  "description": "High-precision scientific and arithmetic calculator with comprehensive mathematical functions, calculation history, unit conversions, and interactive graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
